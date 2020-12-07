@@ -2,8 +2,6 @@ import 'package:firebase_remote_config/firebase_remote_config.dart';
 
 class Config {
   Future<RemoteConfig> setupRemoteConfig() async {
-    String value;
-
     final RemoteConfig remoteConfig = await RemoteConfig.instance;
 
     remoteConfig.setConfigSettings(RemoteConfigSettings(debugMode: false));

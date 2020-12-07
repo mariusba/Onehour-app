@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>296780442962-pf57gvfuoons37cjcqe58jdcvr8tgnjk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.296780442962-pf57gvfuoons37cjcqe58jdcvr8tgnjk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH9B8ixUouMnuKlQIHJa24s9_16Jqz1m0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>296780442962</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marius.app</string>
+	<key>PROJECT_ID</key>
+	<string>mindlet-dc4e8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindlet-dc4e8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:296780442962:ios:52d9b85cb0f2cfa0fa9e8b</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-7809286987915460~7013813957</string>
+</dict>
+</plist>

@@ -122,7 +122,7 @@ class Tracking {
 
       json["currentTime"] = this.currentTime.toString();
     } catch (e) {
-      print(" sfsafsafsaf : ${e}");
+      print(" error : $e");
     }
 
     return json;

@@ -65,7 +65,7 @@ class _ConfigScreenState extends State<ConfigScreen> {
                         : ColorScheme.light(),
                   ),
               textTheme: TextTheme(
-                title: TextStyle(
+                headline6: TextStyle(
                   color:
                       state.isDarkModeOn ? OneHour.textColor : Colors.black87,
                 ),
@@ -73,11 +73,11 @@ class _ConfigScreenState extends State<ConfigScreen> {
                   color:
                       state.isDarkModeOn ? OneHour.textColor : Colors.black87,
                 ),
-                body1: TextStyle(
+                bodyText2: TextStyle(
                   color:
                       state.isDarkModeOn ? OneHour.textColor : Colors.black87,
                 ),
-                headline: TextStyle(
+                headline5: TextStyle(
                   color:
                       state.isDarkModeOn ? OneHour.textColor : Colors.black87,
                 ),

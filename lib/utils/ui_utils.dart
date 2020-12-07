@@ -22,17 +22,6 @@ void rateApp({
       title: "Rate this app",
       message:
           "You like this app? Then take a little bit of your time to leave a rating :",
-      onRatingChanged: (stars) {
-        return [
-          FlatButton(
-            child: Text("OK"),
-            onPressed: () {
-              rateMyApp.doNotOpenAgain = true;
-              rateMyApp.save().then((v) => Navigator.pop(context));
-            },
-          ),
-        ];
-      },
       starRatingOptions: StarRatingOptions(),
     );
   }

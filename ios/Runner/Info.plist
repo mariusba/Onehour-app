@@ -54,7 +54,7 @@
     -->
 				<string>fb000000000000</string>
 				<!--Replace REVERSED_CLIENT_ID with your googleservice.plist REVERSED_CLIENT_ID-->
-				<string>REVERSED_CLIENT_ID</string>
+				<string>com.googleusercontent.apps.296780442962-pf57gvfuoons37cjcqe58jdcvr8tgnjk</string>
 			</array>
 		</dict>
 	</array>
@@ -72,8 +72,16 @@
 		<string>fbshareextension</string>
 		<string>itms</string>
 	</array>
-	<!--Replace 00000ADMOB_ID0000000 with your admob id-->
+	<key>GADIsAdManagerApp</key>
+<true/>
 	<key>GADApplicationIdentifier</key>
-	<string>ADMOB_ID</string>
+<string> ca-app-pub-7809286987915460~7013813957</string>
+<key>SKAdNetworkItems</key>
+  <array>
+    <dict>
+      <key>SKAdNetworkIdentifier</key>
+      <string>cstr6suwn9.skadnetwork</string>
+    </dict>
+  </array>
 </dict>
 </plist>
